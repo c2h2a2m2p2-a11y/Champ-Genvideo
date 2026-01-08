@@ -1,0 +1,7 @@
+{
+  "name": "E-Commerce Visual Pro",
+  "description": "Professional AI-powered product visualization tool to generate high-quality product images on mannequins and cinematic videos using Gemini 3 and Veo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
